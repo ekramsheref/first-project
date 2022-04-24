@@ -709,7 +709,8 @@ a{
 .mb{
  font-size:50px;
  color:rgb(93, 137, 218);
-margin: auto;     
+margin: auto; 
+  letter-spacing:2px;
 }
 .isection{
 width: 300px ;
